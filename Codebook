@@ -32,8 +32,11 @@ test/X_test.txt and
 train/X_train.txt
 Again with descriptors available in another file called features.txt.
 
-The original data is partitioned by test and train data sets for use with machine learning algorithms, but for our use we just merge both partitions of the same data every time, as requested by the instructions for this assignment.
+The original data is partitioned by test and train data sets for use with machine learning algorithms, but for our use 
+we just merge both partitions of the same data every time, as requested by the instructions for this assignment.
 
-We then choose the columns that correspond to mean and standard deviation measurements and filter out the remaining measurement columns.
+We then choose the columns that correspond to mean and standard deviation measurements and filter out the remaining 
+measurement columns.
 
-The last steps are to save the tidy data set we just created and create and save another one containing the same data, but grouped by subject and activity. 
+The last steps are to save the tidy data set we just created and create and save another one containing the same data,
+but grouped by subject and activity. 
