@@ -9,7 +9,8 @@ Triaxial Angular velocity from the gyroscope.
 A 561-feature vector with time and frequency domain variables.
 Its activity label.
 An identifier of the subject who carried out the experiment.
-More information can be found at the original data publisher's website (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+More information can be found at the original data publisher's website 
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Transformations on the original data:
 
